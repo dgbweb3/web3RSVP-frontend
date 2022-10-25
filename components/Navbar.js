@@ -16,7 +16,7 @@ export default function Navbar() {
 
   return (
     mounted && (
-      <header className="bg-black border-b-2 border-violet-500">
+      <header className="bg-violet border-b-2 border-violet-500">
         <nav
           className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"
           aria-label="Top"
